@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 400px;
+}
+.transparentclr{
+    background-color: #00000073;
+}
+.position-absolute{
+    top: 110px;
+}
