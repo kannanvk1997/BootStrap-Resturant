@@ -7,3 +7,15 @@
 .position-absolute{
     top: 110px;
 }
+.txtalign{
+    text-align: justify;
+}
+#services{
+    background-color: #ededed;
+}
+.bgfooter{
+    background-color: black;
+}
+.bgfooter2{
+    background-color: darkgray;
+}
